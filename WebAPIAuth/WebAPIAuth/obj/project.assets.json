@@ -6129,11 +6129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BootCamp Contour Software\\WebAPIAuth\\WebAPIAuth\\WebAPIAuth.csproj",
+      "projectUniqueName": "E:\\BootCamp Contour Software\\.NET-Core-WebAPI-JWT-Auth\\WebAPIAuth\\WebAPIAuth\\WebAPIAuth.csproj",
       "projectName": "WebAPIAuth",
-      "projectPath": "E:\\BootCamp Contour Software\\WebAPIAuth\\WebAPIAuth\\WebAPIAuth.csproj",
+      "projectPath": "E:\\BootCamp Contour Software\\.NET-Core-WebAPI-JWT-Auth\\WebAPIAuth\\WebAPIAuth\\WebAPIAuth.csproj",
       "packagesPath": "C:\\Users\\shahb\\.nuget\\packages\\",
-      "outputPath": "E:\\BootCamp Contour Software\\WebAPIAuth\\WebAPIAuth\\obj\\",
+      "outputPath": "E:\\BootCamp Contour Software\\.NET-Core-WebAPI-JWT-Auth\\WebAPIAuth\\WebAPIAuth\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shahb\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yvMx3MCv7cBOZzWeGpNaZdKhTcSOhAG1HL0tKRLIyCADc9QmNgVGCsqy42VigOw18mDxQYED6d++LoWiVGWluQ==",
+  "dgSpecHash": "yVJ7Cu3Mp1SZofHWWACSnpfTZVAoCIKgoE2psdtV37AUOGtWVu8WWa3QsqWuRXvBOWs8IlJnaTezBoMU1qmpmA==",
   "success": true,
-  "projectFilePath": "E:\\BootCamp Contour Software\\WebAPIAuth\\WebAPIAuth\\WebAPIAuth.csproj",
+  "projectFilePath": "E:\\BootCamp Contour Software\\.NET-Core-WebAPI-JWT-Auth\\WebAPIAuth\\WebAPIAuth\\WebAPIAuth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shahb\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",
     "C:\\Users\\shahb\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.9\\microsoft.aspnet.webapi.core.5.2.9.nupkg.sha512",
